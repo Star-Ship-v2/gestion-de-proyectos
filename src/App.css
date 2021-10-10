@@ -13,6 +13,9 @@
   }
 }
 
+.background {
+  background-image: url(C:\Users\soyuz\Downloads\YO_compu_2021\Academia\MisionTIC_2022\Ciclo_3\Proyectos\StarShip\starship\public\img\background.png);
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
