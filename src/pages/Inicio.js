@@ -1,10 +1,27 @@
-import "../styles/InicioStyle.css"
-import React from 'react';
+import "../styles/InicioStyle.css";
+import "../assets/img/background.png";
+import "../assets/img/chipBlue.PNG";
+
+import React, {pages} from "react";
+import {Switch, Route, Link} from 'react-router-dom';
+import Credenciales from '../pages/Credenciales.js';
 
 const Inicio = ()=> {
     return (
     <div>
-        <div className="background"></div>
+        <div>
+            <header>
+               <Link to="Inicio">Inicio</Link>
+                <Link to="Credenciales">Credenciales</Link>
+            </header>
+            <main>
+                <Switch>
+                    <Route exact path="Inicio">pages=Inicio</Route>
+                    <Route path="Credenciales">pages=Credenciales</Route>
+                </Switch>
+            </main>
+        </div>
+        <div className="background"/>
         <div className="container">
         <div className="login-container">
         <div className="register">
@@ -14,7 +31,7 @@ const Inicio = ()=> {
             <input type="password" placeholder="Contraseña" className="pass"/>
             <input type="submit" className="olvido" value="¿Has olvidado la contraseña?"/>
             <input type="submit" className="submit" value="Iniciar"/>
-            <img src="img\chipBlue.PNG"/>
+            <div className="imgchipBlue"></div>
             </form>
         </div>
         <div className="login">
