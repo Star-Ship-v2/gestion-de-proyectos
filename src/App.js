@@ -7,7 +7,7 @@ import Credenciales from './pages/Credenciales';
 class App extends React.Component {
   render (){
     return (
-      <Credenciales/>
+      <Inicio/>
 
 
   );

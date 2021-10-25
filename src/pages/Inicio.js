@@ -9,18 +9,7 @@ import Credenciales from '../pages/Credenciales.js';
 const Inicio = ()=> {
     return (
     <div>
-        <div>
-            <header>
-               <Link to="Inicio">Inicio</Link>
-                <Link to="Credenciales">Credenciales</Link>
-            </header>
-            <main>
-                <Switch>
-                    <Route exact path="Inicio">pages=Inicio</Route>
-                    <Route path="Credenciales">pages=Credenciales</Route>
-                </Switch>
-            </main>
-        </div>
+
         <div className="background"/>
         <div className="container">
         <div className="login-container">
