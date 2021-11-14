@@ -1,2 +1,0 @@
-# Presentacion del Equipo StarShip
-Hola soy Paola Andrea Henao Suarez, Ingeniera Bioquimica de la universidad de Antioquia. Trabajo como Data factory en Source Meridian. Soy ciclista en mis tiempos libres.
