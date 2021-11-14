@@ -1,2 +1,0 @@
-# Presentacion del Equipo StarShip
-Hola soy Kevin Jaramillo Giraldo, Licenciado en Matemáticas de la Universidad del Valle. Trabajo como profesor e investigador en el Instituto Moderno, de Candelaria. Toco la guitarra en mis tiempos libres y me gusta pasear rapido en moto.
