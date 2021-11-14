@@ -1,7 +1,7 @@
 # Presentacion del Equipo StarShip
 Hola soy Paola Andrea Henao Suarez, Ingeniera Bioquimica de la universidad de Antioquia. Trabajo como Data factory en Source Meridian. Soy ciclista en mis tiempos 
 libres.
-Hola soy Kevin Jaramillo Giraldo, Licenciado en Matemáticas de la Universidad del Valle. Trabajo como profesor e investigador en el Instituto Moderno, de Candelaria. Toco la guitarra en mis tiempos libres, dormir y me gusta pasear rapido en moto.
+<br> Hola soy Kevin Jaramillo Giraldo, Licenciado en Matemáticas de la Universidad del Valle. Trabajo como profesor e investigador en el Instituto Moderno, de Candelaria. Toco la guitarra en mis tiempos libres, dormir y me gusta pasear rapido en moto.
 
 
 # PRESENTACION KEIVER ALEJANDRO CAMARGO SILVA
