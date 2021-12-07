@@ -16,7 +16,7 @@ const Inicio = ()=> {
         <div className="register">
             <h1>Iniciar Sesión</h1>
             <form action="">
-            <input type="text" placeholder="Nombre de usuario " className="nombre de usuario"/>
+            <input type="text" placeholder="Corre del usuario " className="Correo del usuario"/>
             <input type="password" placeholder="Contraseña" className="pass"/>
             <input type="submit" className="olvido" value="¿Has olvidado la contraseña?"/>
             <input type="submit" className="submit" value="Iniciar"/>
