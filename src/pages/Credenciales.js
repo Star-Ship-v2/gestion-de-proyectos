@@ -3,6 +3,7 @@ import "../styles/CredencialesStyle.css";
 import "../assets/img/background.png";
 import "../assets/img/chipBlue.PNG";
 import React from 'react';
+import Inicio from "./Inicio";
 
 const Credenciales = ()=> {
     return (
@@ -23,13 +24,7 @@ const Credenciales = ()=> {
         </div>
         <div className="Acceso">
             <h2>Acceso al sistema</h2>
-            <div>
-                <select defaultValue={this.state.selectValue} onChange={this.handleChange}/>
-                    <option value="Orange">Orange</option>
-                    <option value="Radish">Radish</option>
-                    <option value="Cherry">Cherry</option>
 
-                </div>
         </div>
         </div>
         </div>
@@ -37,4 +32,4 @@ const Credenciales = ()=> {
     );
  }
 
- export default Credenciales
+ export default Credenciales    
